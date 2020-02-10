@@ -1,3 +1,13 @@
+/*
+	To use this script you must call it from the routes.ini file
+	
+	Example:
+	controller_146[] = "juan_test"
+	controller_146[] = "\app\resources\Controller::seedEndtitys"
+	controller_146[] = false
+
+*/
+
 public function seedEndtitys(){
 		// $constants = new \app\test\UtilTest();
 		// $constants -> testEntityAliasFunctions();
